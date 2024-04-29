@@ -37,5 +37,5 @@ The database consists of the following tables:
 - Mst Epti Ara Era (22203177)
 
 ## Login Credential
-- era
-- Era@123
+- ID: era
+- Password: Era@123
