@@ -1,11 +1,13 @@
 CREATE DATABASE tsasdb;
 USE tsasdb;
+
+
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 29, 2024 at 10:00 PM
+-- Generation Time: Apr 29, 2024 at 10:30 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.0.30
 
@@ -44,8 +46,7 @@ CREATE TABLE `tbladmin` (
 --
 
 INSERT INTO `tbladmin` (`ID`, `AdminName`, `UserName`, `MobileNumber`, `Email`, `Password`, `AdminRegdate`) VALUES
-(1, 'Epti Ara Era', 'admin', 5689784592, 'admin@gmail.com', 'f925916e2754e5e03f75dd58a5733251', '2024-04-19 11:58:35'),
-(2, 'Era', 'Epti', 12345678, '22203177', '22203177', '2024-04-24 10:07:46');
+(1, 'Epti Ara Era', 'era', 5689784592, 'era@gmail.com', '9833e0da6134cc93724fe100bda44463', '2024-04-19 11:58:35');
 
 -- --------------------------------------------------------
 
